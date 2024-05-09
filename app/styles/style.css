@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.noScrollBar {
+	scrollbar-width: none; /* Firefox */
+	-ms-overflow-style: none; /* IE/Edge */
+  }
